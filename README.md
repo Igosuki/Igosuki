@@ -12,7 +12,7 @@ If you find my content useful, feel free to buy me a coffee ;)
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Igosuki&hide=stars&show_icons=true&theme=dracula&line_height=24">
+  <img src="https://github-readme-stats.vercel.app/api?username=Igosuki&hide_title=true&show_icons=true&theme=dracula&line_height=24">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igosuki&count_private=true&theme=dracula&line_height=32&layout=compact&hide=html,javascript,css,java,shell">
 
 </p>
