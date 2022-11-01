@@ -1,6 +1,8 @@
 **About me**
 
-Software engineer based in Paris, have mostly worked on scalable platforms for real time predictive AI. Currently working on an algorithmic trading platform.
+Software engineer based in Paris, have mostly worked on scalable platforms for real time predictive AI. 
+
+Currently CTO at Parcels, trying to challenge real estate. And founder at Tradai, a work in progress in the trading space.
 
 I commit on open source when I have time for others, or a useful project to contribute.
 
