@@ -1,10 +1,10 @@
 **About me**
 
-CTO/Software engineer based in Paris, have mostly worked on scalable platforms for real time predictive AI. 
+CTO/Software engineer based in Paris, have mostly worked on scalable platforms for real time services using predictive AI. 
+
+Currently refactoring the world of offline data @DinMo(https://dinmo.com)
 
 I commit on open source when I have time for others, or a useful project to contribute.
-
-If you find my content useful, feel free to buy me a coffee ;)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/igosuki)
 
