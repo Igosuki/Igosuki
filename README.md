@@ -1,8 +1,8 @@
 **About me**
 
-CTO/Software engineer based in Paris, have mostly worked on scalable platforms for real time services using predictive AI. 
+CTO/Software engineer based in Paris, have mostly worked on high scale platforms for real time services using predictive AI. 
 
-Currently refactoring the world of offline data @[DinMo](https://dinmo.com)
+Currently CTO @[DinMo](https://dinmo.com) a SaaS company creating a composable CDP.
 
 I commit on open source when I have time for others, or a useful project to contribute.
 
