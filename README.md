@@ -2,7 +2,7 @@
 
 CTO/Software engineer based in Paris, have mostly worked on high scale platforms for real time services using predictive AI. 
 
-Currently iterating on brand new projects.
+Currently iterating on GenAI related projects.
 
 I commit on open source when I have time for others, or a useful project to contribute.
 
